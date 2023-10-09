@@ -16,7 +16,7 @@
   ## Usage
   Add a new note by selecting "New Note", or view your past notes by clicking on them.
   ## Contributing
-  undefined
+  Salvador Mejia and Jacob Maughan
   ## Tests
   All test were ran inside of insomnia
   ## Questions
